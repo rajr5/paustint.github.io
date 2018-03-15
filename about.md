@@ -4,12 +4,28 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a full stack JavaScript engineer with a focus on Angular and React.
+I spend a lot of time developing on the Salesforce.com platform.
 
-### More Information
+**Languages of choice**
+* TypeScript
+* JavaScript if absolutely necessary
 
-A place to include any other types of information that you'd like to include about yourself.
+**Frameworks of choice**
+* Angular
+* React
+* Express
+
+**Editor / IDE of choice (in order)**
+1. VSCode
+2. Sublime Text 3
+3. JetBrains products (Apex / Lightning)
+
+**Other notable traits and skills**
+* Salesforce.com ninja
+* Billing and CPQ nerd
+* Figuring out ways to solve complex business problems
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[paustint@gmail.com](mailto:paustint@gmail.com)
